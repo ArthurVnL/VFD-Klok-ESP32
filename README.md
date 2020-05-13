@@ -4,6 +4,7 @@ Voor het weergeven van de tijd wordt er gebruik gemaakt van retro-stijl VFD-buiz
 Ook voor de dubbelepunten zijn speciale buizen voorzien.
 Om sfeer te brengen zijn er RGB-leds die de buizen verlichten. 
 
+![IV-22](https://github.com/ArthurVnL/VFD-Klok-ESP32/blob/master/Images/Iv-22.jpg)
 ![leds1](https://github.com/ArthurVnL/VFD-Klok-ESP32/blob/master/Images/leds1.png)
 ![main3](https://github.com/ArthurVnL/VFD-Klok-ESP32/blob/master/Images/main3.png)
 ![tubes2](https://github.com/ArthurVnL/VFD-Klok-ESP32/blob/master/Images/tubes2.png)
